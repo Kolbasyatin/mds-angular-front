@@ -21,7 +21,7 @@ jobs:
 
             - name: copy env file
               run: |
-                pwd
+                ls -al
 #            - name: Lint
 #              run: npm run lint
 # test
