@@ -24,6 +24,7 @@ jobs:
                 pwd
 #            - name: Lint
 #              run: npm run lint
+# test
 
             - name: Test
               run: npm run test -- --no-watch
